@@ -26,5 +26,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=snehalmarutisalokhe&" alt="snehalmarutisalokhe" /></p>
 
- <! --  [![C4GTGithubDisplay](https://kcavhjwafgtoqkqbbqrd.supabase.co/storage/v1/object/public/c4gt-github-profile/1074975931829063680-c4gt-contributions.jpeg)](https://github.com/Code4GovTech) --> 
 

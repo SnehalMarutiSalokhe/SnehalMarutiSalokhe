@@ -26,4 +26,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=snehalmarutisalokhe&" alt="snehalmarutisalokhe" /></p>
 
-
+[![An image of @snehalmarutisalokhe's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/snehalmarutisalokhe)](https://holopin.io/@snehalmarutisalokhe)

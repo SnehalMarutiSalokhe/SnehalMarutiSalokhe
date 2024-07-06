@@ -26,4 +26,13 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=snehalmarutisalokhe&" alt="snehalmarutisalokhe" /></p>
 
+
+<p align="center">
+  <img src="2023-50.gif" alt="LeetCode b1" width="100" height="100"/>
+  <img src="2024-03.gif" alt="LeetCode b2" width="100" height="100"/>
+  <img src="2024-50.gif" alt="LeetCode b3" width="100" height="100"/>
+  <img src="2024-100-new.gif" alt="LeetCode b4" width="100" height="100"/>
+  <img src="2024-06.gif" alt="LeetCode b5" width="100" height="100"/>
+</p>
+
 [![An image of @snehalmarutisalokhe's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/snehalmarutisalokhe)](https://holopin.io/@snehalmarutisalokhe)
